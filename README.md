@@ -134,7 +134,16 @@ Run the dashboard: streamlit run app/app.py
 - Model monitoring
 - Cloud deployment
 
+---
+## ‍👩🏼‍💻 Author
 
-## Author
-Oliveira Monica, 
-Data Engineer / Backend Python 
+**Oliveira Mônica**
+
+* 💻 Software Developer transitioning into AI/ML
+* ☕ Passionate about code and coffee
+
+---
+
+## ⭐ If you like this project
+
+Give it a star on GitHub ⭐ and feel free to contribute!
